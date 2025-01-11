@@ -33,14 +33,21 @@ By now, you should have VirtualBox downloaded and installed. If not, check out m
 
 
 
-<img src="">
+<img src="Folder/kal 3.jpg">
 
 
  
 
 <h2>Name and Operating System</h2> 
 
-Name your virtual machine (e.g., "Kali Linux"), choose "Linux" as the Type, and select "Ubuntu (64-bit)" as the Version if using the 64-bit ISO. 
+Name your virtual machine (e.g., "Kali Linux"), choose "Linux" as the Type, and select "Ubuntu (64-bit)" as the Version if using the 64-bit ISO.
+
+
+
+<img src="">
+
+
+
 
 <h2>Step 2 con’t: Memory Size</h2> 
 
