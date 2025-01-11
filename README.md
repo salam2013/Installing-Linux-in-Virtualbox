@@ -57,14 +57,24 @@ Allocate a minimum of 4096 MB of memory for your virtual machine; however, 8192 
 
 
 
-<img src="">
+<img src="Folder/kal 5.png">
 
 
  
 
 <h2>Step 3: Create a Virtual Hard Disk</h2> 
 
-Allocate at least 20 GB of storage for Kali Linux, though you can choose a larger size if you have sufficient disk space. 
+Allocate at least 20 GB of storage for Kali Linux, though you can choose a larger size if you have sufficient disk space.
+
+
+
+
+
+<img src="">
+
+
+
+
 
 <h2>Step 4: Configure VM Settings</h2> 
 
