@@ -70,7 +70,7 @@ Allocate at least 20 GB of storage for Kali Linux, though you can choose a large
 
 
 
-<img src="">
+<img src="Folder/kal 6.png">
 
 
 
@@ -78,7 +78,15 @@ Allocate at least 20 GB of storage for Kali Linux, though you can choose a large
 
 <h2>Step 4: Configure VM Settings</h2> 
 
-Choose your virtual machine and click "Settings." Navigate to the "Storage" section, then click the empty CD icon under "Controller: IDE." Next, select "Choose a disk file..." and locate the Kali Linux ISO file you previously downloaded. This process attaches the ISO to your virtual machine for installation. 
+Choose your virtual machine and click "Settings." Navigate to the "Storage" section, then click the empty CD icon under "Controller: IDE." Next, select "Choose a disk file..." and locate the Kali Linux ISO file you previously downloaded. This process attaches the ISO to your virtual machine for installation.
+
+
+
+
+
+<img src="">
+
+
 
  
 
