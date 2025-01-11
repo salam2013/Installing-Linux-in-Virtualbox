@@ -138,13 +138,23 @@ Launch a terminal and execute the command: sudo apt update to ensure your system
 
 
 
-<img src="">
+<img src="Folder/kal 11.png">
 
 
 
 
 
 Once the update is complete, run the command sudo apt upgrade -y to upgrade your Linux system to the latest available packages and enhancements.
+
+
+
+
+
+<img src="">
+
+
+
+
 
 <h2>Note</h2>
 
