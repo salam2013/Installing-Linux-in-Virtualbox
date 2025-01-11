@@ -99,7 +99,7 @@ Make sure your network settings are properly configured. It is recommended to us
 
 
 
-<img src="">
+<img src="Folder/kal 8.png">
 
 
 
@@ -109,11 +109,29 @@ Make sure your network settings are properly configured. It is recommended to us
 
 <h2>Step 6:Start the VM</h2> 
 
-Click "Start" to boot the VM. Once booted, log in using the default credentials: Username: "kali" and Password: "kali". 
+Click "Start" to boot the VM. Once booted, log in using the default credentials: Username: "kali" and Password: "kali".
+
+
+
+
+
+<img src="">
+
+
+
 
 <h2>Step 7: Update Kali</h2> 
 
-Launch a terminal and execute the command: sudo apt update to ensure your system's package list is updated with the latest repositories. 
+Launch a terminal and execute the command: sudo apt update to ensure your system's package list is updated with the latest repositories.
+
+
+
+
+<img src="">
+
+
+
+
 
 Once the update is complete, run the command sudo apt upgrade -y to upgrade your Linux system to the latest available packages and enhancements.
 
