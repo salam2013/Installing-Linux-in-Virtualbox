@@ -150,7 +150,7 @@ Once the update is complete, run the command sudo apt upgrade -y to upgrade your
 
 
 
-<img src="">
+<img src="Folder/kal 12.png">
 
 
 
