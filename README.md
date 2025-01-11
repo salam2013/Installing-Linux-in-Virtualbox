@@ -115,7 +115,7 @@ Click "Start" to boot the VM. Once booted, log in using the default credentials:
 
 
 
-<img src="">
+<img src="Folder/kal 9.png">
 
 
 
