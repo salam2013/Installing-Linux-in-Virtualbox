@@ -44,14 +44,21 @@ Name your virtual machine (e.g., "Kali Linux"), choose "Linux" as the Type, and 
 
 
 
-<img src="">
+<img src="Folder/kal 4.png">
 
 
 
 
 <h2>Step 2 con’t: Memory Size</h2> 
 
-Allocate a minimum of 4096 MB of memory for your virtual machine; however, 8192 MB (8 GB) or more is recommended for better performance. For the processor, assign at least 4 CPUs if available. 
+Allocate a minimum of 4096 MB of memory for your virtual machine; however, 8192 MB (8 GB) or more is recommended for better performance. For the processor, assign at least 4 CPUs if available.
+
+
+
+
+
+<img src="">
+
 
  
 
