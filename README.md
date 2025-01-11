@@ -19,7 +19,7 @@ Extract the downloaded file using a reliable extraction tool like WinRAR or 7-Zi
 
 
 
-<img src="">
+<img src="Folder/kal2.jpg">
 
 
 
@@ -27,7 +27,14 @@ Extract the downloaded file using a reliable extraction tool like WinRAR or 7-Zi
 
 <h2>Step 2: Create a New Virtual Machine</h2> 
 
-By now, you should have VirtualBox downloaded and installed. If not, check out my guide linked here for assistance. Open VirtualBox, then click on the "New" button to proceed. 
+By now, you should have VirtualBox downloaded and installed. If not, check out my guide linked here for assistance. Open VirtualBox, then click on the "New" button to proceed.
+
+
+
+
+
+<img src="">
+
 
  
 
