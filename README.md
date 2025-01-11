@@ -14,7 +14,14 @@ Click <a href="https://www.kali.org/get-kali/#kali-installer-images">here</a> to
 
  
 
-Extract the downloaded file using a reliable extraction tool like WinRAR or 7-Zip. Ensure the files are extracted to a designated folder for easy access during the installation process. 
+Extract the downloaded file using a reliable extraction tool like WinRAR or 7-Zip. Ensure the files are extracted to a designated folder for easy access during the installation process.
+
+
+
+
+<img src="">
+
+
 
  
 
