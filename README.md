@@ -84,7 +84,7 @@ Choose your virtual machine and click "Settings." Navigate to the "Storage" sect
 
 
 
-<img src="">
+<img src="Folder/kal 7.jpg">
 
 
 
@@ -92,7 +92,20 @@ Choose your virtual machine and click "Settings." Navigate to the "Storage" sect
 
 <h2>Step 5: Configure the Network</h2> 
 
-Make sure your network settings are properly configured. It is recommended to use the Bridged Adapter setting, which allows your virtual machine to function as a separate device on your physical network. The VM will receive its own unique IP address either dynamically from the network’s DHCP server or through manual static configuration. This setup enables the virtual machine to interact seamlessly with other devices on your network, just like a physical computer. The Bridged Adapter option ensures better connectivity and access to network resources, making it ideal for scenarios that require full network integration for testing or communication purposes. 
+Make sure your network settings are properly configured. It is recommended to use the Bridged Adapter setting, which allows your virtual machine to function as a separate device on your physical network. The VM will receive its own unique IP address either dynamically from the network’s DHCP server or through manual static configuration. This setup enables the virtual machine to interact seamlessly with other devices on your network, just like a physical computer. The Bridged Adapter option ensures better connectivity and access to network resources, making it ideal for scenarios that require full network integration for testing or communication purposes.
+
+
+
+
+
+
+<img src="">
+
+
+
+
+
+
 
 <h2>Step 6:Start the VM</h2> 
 
