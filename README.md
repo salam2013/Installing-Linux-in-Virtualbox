@@ -4,7 +4,13 @@ In this guide, I’ll walk you through the process of downloading and installing
 
 <h2>Step 1: Download Kali Linux ISO</h2> 
 
-Click <a href="https://www.kali.org/get-kali/#kali-installer-images">here</a> to Visit the Official Kali and download the latest version of Kali Linux ISO suitable for your system (32-bit or 64-bit). Generally, you'll want the 64-bit version if your system supports. 
+Click <a href="https://www.kali.org/get-kali/#kali-installer-images">here</a> to Visit the Official Kali and download the latest version of Kali Linux ISO suitable for your system (32-bit or 64-bit). Generally, you'll want the 64-bit version if your system supports.
+
+
+
+
+<img src="Folder/kal1.png">
+
 
  
 
